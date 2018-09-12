@@ -10,4 +10,6 @@ docker-cloud -v
 docker login
 docker-cloud node byo
 
+sudo service dockercloud-agent restart
+
 ```
